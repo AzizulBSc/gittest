@@ -1,1 +1,4 @@
-Hello file adde at 26.05.2021
+Hello file added at 26.05.2021
+Hi this is redited.This is my another commit.Hi Mate,
+Very very helpful post. I was stuck with “error: failed to push some refs to” for one day and searched everywhere only to land here and get it resolved within no time.
+Thanks a ton.
