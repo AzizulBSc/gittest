@@ -1,4 +1,6 @@
 test file changed
 new line added in main branch
-new line added in another branch
-another line added in another branch
+
+new line added in main branch
+another line added from main branch
+
